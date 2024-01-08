@@ -1,0 +1,16 @@
+/Adder_tb.vcd
+/Adder_tb.vvp
+/Address_latch_tb.vcd
+/Address_latch_tb.vvp
+/ALU_tb.vcd
+/ALU_tb.vvp
+/Clock_gen_tb.vcd
+/Clock_gen_tb.vvp
+/full_adder_tb.vcd
+/full_adder_tb.vvp
+/Program_counter_tb.vcd
+/Program_counter_tb.vvp
+/Register_bank_tb.vcd
+/Register_bank_tb.vvp
+/register_tb.vcd
+/register_tb.vvp
